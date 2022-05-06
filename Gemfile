@@ -10,7 +10,7 @@ gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 gem "sprockets-rails"
 
 gem 'bootstrap-sass', '3.4.1'
-
+gem 'rails-controller-testing'
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
