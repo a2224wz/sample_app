@@ -22,4 +22,4 @@ test:
 
 production:
   adapter: postgresql
-  url: <%= ENV['HEROKU_POSTGRESQL_IVORY_URL'] %>
+  url: <%= ENV['DATABASE_URL'] %>
