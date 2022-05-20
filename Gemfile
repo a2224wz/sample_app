@@ -11,6 +11,9 @@ gem "jquery-rails"
 gem "jquery-ui-rails"
 gem "sprockets-rails"
 gem 'bcrypt',         '3.1.13'
+gem 'faker',          '2.20.0'
+gem 'will_paginate',           '3.3.1'
+gem 'bootstrap-will_paginate', '1.0.0'
 gem 'bootstrap-sass', '3.4.1'
 gem 'rails-controller-testing'
 # Use the Puma web server [https://github.com/puma/puma]
